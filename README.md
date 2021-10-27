@@ -1,2 +1,2 @@
 # SQL
-Projetos e arquivos SQL
+Projetos e scripts SQL
