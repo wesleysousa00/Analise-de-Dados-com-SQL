@@ -4,11 +4,21 @@ Nesse repositório coloquei algumas Querys sempre relacionada a análise de dado
 
 01 - Consulta Filtro e Ordenação
 
-Nesse arquivo demostrei como realizar consultas simples em SQL, também a realizar filtros e ordenação nas Querys
+Nesse arquivo usarei SQL para analisar dados de inspeções sanitárias em navios de cruzeiro, são
+dados reais disponíveis publicamente fornecidos pela ANVISA.
+O objetivo deste script é trazer algumas respostas e entender algumas caracteristicas dos dados,
+como os navios com pior classificação de risco, os navios com índices de conformidade mais alto,
+os navios com alta pontuação de risco entre outros detalhes.
+
+
 
 02 - Categorização e Binarização
 
-Nesse arquivo desmonstrei como transformar variáveis de um conjunto de dados de pacientes que desenvolveram câncer de mama, limpando e tratando os dados através de categorização e binarização.
+Nesse arquivo o objetivo será aplicar uma série de transformações a variáveis de um conjunto de dados
+de pacientes que desenvolveram câncer de mama. Estarei limpando e transformando os dados
+através de categorização, codificação e binarização e então gerar um novo dataset, que
+poderá ser usado mais a frente por outros profissionais da equipe de Ciência de Dados.
+
 
 
 03 - Junção de Tabelas
