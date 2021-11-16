@@ -1,4 +1,4 @@
-                    Portfólio de Estudos - SQL
+                    Portfólio de Análise de dados com SQL
 
 Nesse repositório coloquei algumas Querys sempre relacionada a análise de dados.
 
