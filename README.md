@@ -27,3 +27,13 @@ poderá ser usado mais a frente por outros profissionais da equipe de Ciência d
 03 - Junção de Tabelas
 
 Nesse arquivo mostrei a importância de utilizar a junção de tabelas, e os 4 tipos de JOINS mais utilizado, INNER JOIN, LEFT JOIN, RIGHT JOIN e FULL JOIN.
+
+
+
+04 - Agregando Dados para Análise
+
+Com seus diversos hubs operacionais espalhados pelo Brasil, o Delivery Center é uma plataforma integra lojistas e marketplaces, criando um ecossistema saudável para vendas de good (produtos) e food (comidas) no varejo brasileiro.
+Atualmente possui cadastro (catálogo + cardápio) com mais de 900 mil itens, milhares de pedidos e entregas são operacionalizados diariamente com uma rede de milhares lojistas e entregadores parceiros espalhados por todas as regiões do país.
+Tudo isso gera dados e mais dados a todo momento!
+Diante disso, o Delivery Center está cada vez data driven, ou seja, utilizando dados para tomar decisões e numa visão de futuro sabemos que utilizar os dados de forma inteligente pode ser um grande diferencial no mercado.
+
