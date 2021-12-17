@@ -1,5 +1,17 @@
             
             Projeto Delivery Center
+	    
+	    Descrição dos datasets
+	    
+channels: Este dataset possui informações sobre os canais de venda (marketplaces) onde são vendidos os good e food de nossos lojistas.
+deliveries: Este dataset possui informações sobre as entregas realizadas por nossos entregadores parceiros.
+drivers: Este dataset possui informações sobre os entregadores parceiros. Eles ficam em nossos hubs e toda vez que um pedido é processado, são eles fazem as entregas na casa dos consumidores.
+hubs: Este dataset possui informações sobre os hubs do Delivery Center. Entenda que os Hubs são os centros de distribuição dos pedidos e é dali que saem as entregas.
+orders: Este dataset possui informações sobre as vendas processadas através da plataforma do Delivery Center.
+payments: Este dataset possui informações sobre os pagamentos realizados ao Delivery Center.
+stores: Este dataset possui informações sobre os lojistas. Eles utilizam a Plataforma do Delivery Center para vender seus itens (good e/ou food) nos marketplaces.
+
+https://www.kaggle.com/nosbielcs/brazilian-delivery-center
 
 
 1- Qual o número de hubs por cidade?
